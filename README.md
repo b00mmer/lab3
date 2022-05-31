@@ -6,4 +6,4 @@
 
 ![alt-текст][Топология]
 
-[Топология]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Топология"
+[Топология]:https://github.com/b00mmer/lab1/blob/main/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.jpg "Топология"
