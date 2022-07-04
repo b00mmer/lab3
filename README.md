@@ -17,3 +17,8 @@
 
 3. [Сетевые параметры маршрутизатора R1](https://github.com/b00mmer/lab3/blob/main/R1_running-config.txt)
 4. [Сетевые параметры маршрутизатора R3](https://github.com/b00mmer/lab3/blob/main/R3_running-config.txt)
+5. Проверка подключения с PC0
+
+![alt-текст][Server0]
+
+[Server0]:https://github.com/b00mmer/lab3/blob/main/Снимок1.JPG "Проверка подключения с PC0"
